@@ -79,8 +79,6 @@ Outlining: Highlights object borders
 
 For deeper learning, check out books like Digital Image Processing by Gonzalez and Woods.
 
-Let me know if you'd like a Markdown version with embedded images or GIFs showing the effect of each kernel!
-🔗 Additional Resources
 GitHub Repository: Image-Effects-Model
 
 Gradio Documentation: https://gradio.app
